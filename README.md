@@ -1,13 +1,3 @@
-I see your project has three main files:
-
-* **index.html** → the main HTML structure
-* **master.css** → styling for the app
-* **main.js** → JavaScript functionality
-
-Here’s a clean `README.md` file for your project:
-
----
-
 # Weather App 🌤️
 
 A simple weather application built with **HTML**, **CSS**, and **JavaScript**.
@@ -54,7 +44,3 @@ This project likely uses a weather API (e.g., **OpenWeatherMap API**).
 ## 📜 License
 
 This project is licensed under the MIT License.
-
----
-
-Do you want me to open the **`main.js`** file and confirm which API/service it uses so I can adjust the README accordingly?
